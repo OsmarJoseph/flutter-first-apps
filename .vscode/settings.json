@@ -1,6 +1,9 @@
 {
   "[dart]": {
     "editor.defaultFormatter": "Dart-Code.dart-code",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    }
   }
 }
